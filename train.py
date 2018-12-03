@@ -14,15 +14,18 @@ from yolo3.utils import get_random_data
 
 
 def _main():
-    annotation_path = 'train.txt'
+    # annotation_path = 'train.txt'
+    annotation_path = 'my_train.txt'  # 先ほどconvert_vott_to_kerasyolo3txt.pyで生成したtxtファイルに変更します
     log_dir = 'logs/000/'
-    classes_path = 'model_data/voc_classes.txt'
+    # classes_path = 'model_data/voc_classes.txt'
+    classes_path = 'model_data/my_classes.txt'  # 今回学習するクラスのtxtファイルに変更します
     anchors_path = 'model_data/yolo_anchors.txt'
     class_names = get_classes(classes_path)
     num_classes = len(class_names)
     anchors = get_anchors(anchors_path)
 
-    input_shape = (416,416) # multiple of 32, hw
+    # input_shape = (416,416) # multiple of 32, hw
+    input_shape = (128,128) # 学習用の画像サイズに変更します 今回は128*128なので(128, 128)にします
 
     is_tiny_version = len(anchors)==6 # default setting
     if is_tiny_version:

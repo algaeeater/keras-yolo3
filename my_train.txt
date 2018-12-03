@@ -1,0 +1,39 @@
+../resize_images/000001.jpg 53,13,76,29,1
+../resize_images/000002.jpg 53,18,76,32,1
+../resize_images/000003.jpg 5,19,125,72,0 63,24,78,34,1
+../resize_images/000004.jpg 28,20,48,48,1 8,46,44,128,0
+../resize_images/000005.jpg 0,20,41,95,0 21,10,33,28,1
+../resize_images/000006.png 23,15,33,28,1 68,67,75,75,1
+../resize_images/000008.jpg 1,3,66,92,0 73,7,91,24,1
+../resize_images/000009.jpg 42,18,54,31,1 93,20,100,31,1
+../resize_images/000010.jpg 53,22,71,33,1
+../resize_images/000011.jpg 45,29,92,79,1
+../resize_images/000012.jpg 24,15,39,39,1
+../resize_images/000013.jpg 50,22,56,32,1
+../resize_images/000014.png 53,16,75,31,1
+../resize_images/000015.jpg 0,8,39,128,0 58,22,81,45,1
+../resize_images/000016.jpg 53,45,77,96,1
+../resize_images/000017.jpg 21,50,35,71,1
+../resize_images/000018.jpg 53,33,70,52,1
+../resize_images/000019.jpg 57,9,71,33,1
+../resize_images/000020.jpg 65,24,78,36,1 5,14,125,82,0
+../resize_images/000021.jpg 0,0,69,115,0 49,41,64,63,1
+../resize_images/000022.jpg 32,23,47,48,1 24,46,47,87,0 94,44,124,104,0 107,22,125,47,1
+../resize_images/000023.jpg 54,15,77,28,1
+../resize_images/000024.jpg 34,23,59,70,1 4,0,100,31,0
+../resize_images/000026.jpg 37,25,60,48,1
+../resize_images/000028.png 23,38,104,75,1
+../resize_images/000029.jpg 57,8,84,31,1 0,33,88,117,0
+../resize_images/000030.png 0,36,85,119,0 56,9,82,31,1
+../resize_images/000031.png 11,26,62,76,1
+../resize_images/000032.jpg 22,19,41,48,1
+../resize_images/000042.jpg 12,83,27,100,1
+../resize_images/000040.jpg 25,17,46,35,1
+../resize_images/000038.jpg 58,13,71,27,1 28,25,69,97,0
+../resize_images/000037.jpg 24,21,32,31,1
+../resize_images/000039.jpg 60,105,70,119,1 11,1,96,55,0
+../resize_images/000041.jpg 63,42,85,61,1 0,42,71,93,0
+../resize_images/000043.jpg 7,65,13,75,1 54,65,61,74,1 97,65,104,75,1 85,61,106,109,0
+../resize_images/000050.jpg 52,15,78,38,1
+../resize_images/000051.jpg 56,15,71,39,1
+../resize_images/000052.jpg 21,23,39,48,1
